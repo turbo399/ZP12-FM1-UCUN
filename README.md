@@ -1,5 +1,3 @@
-# ZP12-FM1-UCUN
-Community compatibility update for ZP12 on newer M‑VAVE FM‑1 hardware.
 # ZP12 for newer M-VAVE FM-1 hardware
 
 An unofficial ZP12 2.5 compatibility build for FM-1 units fitted with UCUN UC25HQ80 flash, plus a Linux desktop sample manager with MIDI loop export.
