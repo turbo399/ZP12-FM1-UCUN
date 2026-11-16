@@ -92,6 +92,21 @@ This repository shares a community compatibility build and a desktop companion a
 
 Firmware source, the UCUN patch and build validation logs are included in the firmware ZIP. Desktop app source and tests are included in the app ZIP.
 
+### Sample editor
+Load your own sounds, assign pads and chop breaks.
+
+<img width="1273" height="886" alt="Screenshot_2026-11-16_16-52-14" src="https://github.com/user-attachments/assets/ac8b02e0-c2c2-4e7c-9d0e-40e86b73c8ee" />
+
+### Backup and restore
+Save and restore patterns, settings and samples.
+
+<img width="1280" height="898" alt="Screenshot_2026-11-16_16-53-04" src="https://github.com/user-attachments/assets/1a9d5fdb-c84f-42aa-8cff-ee5fe8c8c43d" />
+
+### MIDI loop export
+Choose File → Export loop as MIDI to export a saved loop for LMMS.
+
+<img width="545" height="321" alt="Screenshot_2026-11-16_16-53-23" src="https://github.com/user-attachments/assets/8e06476a-9155-41b3-abca-3eb035ec1fba" />
+
 Both packages include their GPL v3 licence text and original notices. The desktop package specifies GPL-3.0-only. External dependencies retain their own licences.
 
 This project is not affiliated with or endorsed by M-VAVE or the upstream author.
