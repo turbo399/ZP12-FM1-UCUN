@@ -53,10 +53,14 @@ Extract the app ZIP and open a terminal inside the zp12-desktop folder containin
 
 Run:
 
+Run these commands separately:
+
+```bash
 sudo apt install python3-venv libxcb-cursor0 libxkbcommon-x11-0 libegl1
 bash install.sh
+```
 
-Run the installer as your normal user, without sudo.
+Use sudo for the apt command only. Run bash install.sh as your normal user.
 
 The first installation needs internet access to download dependencies. Afterwards, open ZP12 Sample Manager from your Applications menu.
 
